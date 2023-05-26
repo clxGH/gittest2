@@ -9,5 +9,6 @@ public class gittest2 {
         System.out.println("ssh 提交到git```");
         System.out.println("代码拉取到本地库测试");
         System.out.println("clone下来后再次提交测试");
+        System.out.println("github更新");
     }
 }

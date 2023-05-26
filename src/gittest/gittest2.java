@@ -7,5 +7,6 @@ public class gittest2 {
         System.out.println("这是不忽略idea文件夹的提交");
         System.out.println("");
         System.out.println("ssh 提交到git```");
+        System.out.println("代码拉取到本地库测试");
     }
 }

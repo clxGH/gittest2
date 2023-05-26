@@ -5,5 +5,6 @@ public class gittest2 {
         System.out.println("gittest 2");
         System.out.println("这是测试提交");
         System.out.println("这是不忽略idea文件夹的提交");
+        System.out.println("");
     }
 }
